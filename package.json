@@ -4,7 +4,7 @@
   "description": "Api to study and pratice Clean Architecture and TDD with Typescript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "lint-staged": {
     "*.js": [
@@ -29,6 +29,7 @@
   "homepage": "https://github.com/Lucasnhso/clean-node-tdd-api#readme",
   "devDependencies": {
     "husky": "^8.0.2",
+    "jest": "^29.3.1",
     "lint-staged": "^13.0.3",
     "standard": "^17.0.0"
   }
