@@ -1,0 +1,19 @@
+{
+  "name": "clean-node-tdd-api",
+  "version": "1.0.0",
+  "description": "Api to study and pratice Clean Architecture and TDD with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucasnhso/clean-node-tdd-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucasnhso/clean-node-tdd-api/issues"
+  },
+  "homepage": "https://github.com/Lucasnhso/clean-node-tdd-api#readme"
+}
