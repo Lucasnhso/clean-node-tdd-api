@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Lucasnhso/clean-node-tdd-api/issues"
   },
-  "homepage": "https://github.com/Lucasnhso/clean-node-tdd-api#readme"
+  "homepage": "https://github.com/Lucasnhso/clean-node-tdd-api#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
 }
