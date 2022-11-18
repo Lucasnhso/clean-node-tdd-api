@@ -1,6 +1,6 @@
-module.exports = class UnauthorizedError extends Error {
+module.exports = class ServerError extends Error {
   constructor () {
-    super('Unauthorized')
-    this.name = 'MissingParamError'
+    super('Internal error')
+    this.name = 'ServerError'
   }
 }
